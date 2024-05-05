@@ -1,0 +1,82 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "codede",
+      "materias": [
+        {
+          "nombre": "Node JS desde cero"
+        },
+        {
+          "nombre": "React JS desde cero"
+        },
+        {
+          "nombre": "Angular JS desde cero"
+        }
+      ],
+      "id": "f0e4"
+    },
+    {
+      "id": "63cc",
+      "nombre": "Camila",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "Biologia"
+        },
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombbre": "Fisica"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "d5ca"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Peralta",
+      "promedio": 10,
+      "id": "c464"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node JS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "1389"
+    },
+    {
+      "nombre": "React desde cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "4b38"
+    },
+    {
+      "nombre": "Angular desde cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "cf6a"
+    },
+    {
+      "id": "1b1d",
+      "nombre": "HTML desde cero",
+      "duracion": 7,
+      "dificultad": "baja"
+    },
+    {
+      "id": "c3cb",
+      "nombre": "CSS desde cero",
+      "duracion": 7,
+      "dificultad": "baja"
+    }
+  ]
+}
